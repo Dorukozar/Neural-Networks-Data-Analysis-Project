@@ -1,4 +1,4 @@
-# CSCI 349 Final Project
+# Neural Networks Data Analysis Project
 
 Team Name: Baseball Savants
 
